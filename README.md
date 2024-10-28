@@ -1,0 +1,3 @@
+Alan Gonzalez
+alangonzalezmorales2003@gmail.com
+primerProyectoJS
